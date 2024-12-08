@@ -3,3 +3,6 @@
 
 # Ignorar a pasta node_modules
 node_modules/
+
+# Por enquanto isso é temporário
+styles/global.css

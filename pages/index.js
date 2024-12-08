@@ -1,10 +1,13 @@
+import Layout from '../components/Layout';
+
 function Home() {
     return (
-        <div>
-            <h1>Meu primeiro website! :3</h1>
-            <p>Paragrafo a baixo do título wooww</p>
-            <p>yupii</p>
-        </div>
+        <Layout>
+            <section>
+                <p>Paragrafo a baixo do título wooww</p>
+                <p>yupii</p>
+            </section>
+        </Layout>
     )
 }
 
