@@ -1,11 +1,11 @@
-import Layout from '../components/Layout';
+import Layout from '../components/layout.js';
 
 function Home() {
     return (
         <Layout>
             <section>
-                <p>Paragrafo a baixo do título wooww</p>
-                <p>yupii</p>
+                <p>Update nos componentes yupiiiiii :333333</p>
+                <p>0.0.21</p>
             </section>
         </Layout>
     )

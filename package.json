@@ -1,10 +1,11 @@
 {
   "name": "meu-primeiro-site-com-react",
-  "version": "0.0.1",
+  "version": "0.0.21",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
-    "build": "next build"
+    "build": "next build",
+    "test": "next build"
   },
   "author": "",
   "license": "ISC",
